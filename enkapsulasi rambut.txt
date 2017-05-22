@@ -1,0 +1,14 @@
+OOP 2 MATERI ENKAPSULASI.
+
+- Objek = Rambut
+- Sub	= Jenis dan Warna
+
+- Jenis rambut yang dipilih yaitu keriting
+- Warna rambut yang dipilih yaitu hitam
+
+- pada class EnkapsuliasiRambut.java merupakan public class utama yang didalamnya
+terdapat variabel jenis dan warna yang sama sama menggunakan String. Dan terdapat
+getter dan setter yaitu untuk membedakan pada saat pemanggilan objek pada rambut tersebut.
+
+
+
